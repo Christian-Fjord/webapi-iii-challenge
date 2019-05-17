@@ -10,12 +10,12 @@ You are allowed, and **encouraged**, to collaborate with other peers. Please fol
 
 ## Project Set Up
 
-- [ ] Create a forked copy of this project.
-- [ ] Add your project manager as collaborator on Github.
-- [ ] Clone your OWN version of the repository.
-- [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
-- [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
-- [ ] Push commits: git push origin `<firstName-lastName>`.
+- [ Done ] Create a forked copy of this project.
+- [ Done ] Add your project manager as collaborator on Github.
+- [ Done ] Clone your OWN version of the repository.
+- [ Done ] Create a new branch: git checkout -b `<firstName-lastName>`.
+- [ Donne ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
+- [ Done ] Push commits: git push origin `<firstName-lastName>`.
 
 Follow these steps for completing your project.
 
